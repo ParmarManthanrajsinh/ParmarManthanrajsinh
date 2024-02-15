@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParmarManthanrajsinh
 - 👀 I’m interested in ... game devlopment
-- 🌱 I’m currently learning ... c++
+- 🌱 I’m currently learning ... advance c++
 - 📫 How to reach me ... email me
 - ⚡ Fun fact: ... One fun fact about game development is that the iconic game "Pac-Man" was originally called "Puck-Man" in Japan.
 - However, fearing vandals would change the "P" to an "F" on arcade cabinets, the name was changed when it was released internationally.
