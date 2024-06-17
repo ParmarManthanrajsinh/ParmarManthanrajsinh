@@ -2,5 +2,14 @@
 - 👀 I’m interested in ... game devlopment
 - 🌱 I’m currently learning ... advance c++
 - 📫 How to reach me ... email me
-- ⚡ Fun fact: ... One fun fact about game development is that the iconic game "Pac-Man" was originally called "Puck-Man" in Japan.
-- However, fearing vandals would change the "P" to an "F" on arcade cabinets, the name was changed when it was released internationally.
+
+<pre>
+Ideas by man and only that will last
+And over time, we've learned from the past
+That no man's fit to rule the world alone
+A man will die, but not his ideas
+Happy nation, livin' in a happy nation
+Where the people understand and dream of perfect man
+Situation leading to sweet salvation
+For the people, for the good, for mankind brotherhood
+</pre>
