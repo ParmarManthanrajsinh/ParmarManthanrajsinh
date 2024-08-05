@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @ParmarManthanrajsinh
-- 👀 I’m interested in ... game devlopment
-- 🌱 I’m currently learning ... advance c++
-- 📫 How to reach me ... email me
+<h2>- 👋 Hi, I’m @ParmarManthanrajsinh</h2>
+<h2>- 👀 I’m interested in ... game devlopment</h2>
+<h2>- 🏫 I’m currently learning ... advance c++</h2>
+<h2>- 📫 How to reach me ... DM me on my insta manthanrajsinhparmar</h2>
+
+<br>
 
 <pre>
 Ideas by man and only that will last
