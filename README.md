@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @ParmarManthanrajsinh<br>- 👀 I’m interested in ... game devlopment<br>- 🏫 I’m currently learning ... advance c++<br>- 📫 How to reach me ... DM me on my insta [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manthanrajsinhparmar)
+- 👋 Hi, I’m @ParmarManthanrajsinh<br>- 👀 I’m interested in ... game devlopment<br>- 🏫 I’m currently learning ... advance c++<br>- 📫 How to reach me ... DM me on my insta
 
 
 ## 🌐 Socials:
