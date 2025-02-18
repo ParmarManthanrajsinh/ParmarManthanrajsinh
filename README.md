@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @ParmarManthanrajsinh<br>- 👀 I’m interested in ... game devlopment<br>- 🏫 I’m currently learning ... advance c++<br>- 📫 How to reach me ... DM me on my insta
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manthanrajsinhparmar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthanrajsinh-parmar-1b4637275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Manthan) 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
