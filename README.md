@@ -50,6 +50,11 @@ Motivated computer science student specializing in game development. Skilled in 
   - Demonstrates custom UI design and ImGui integration.  
   - Supports basic file navigation features
 
+- **[AI Bot in PHP](https://github.com/ParmarManthanrajsinh/AI-Bot-in-PHP)**  
+  Chatbot-style AI system built with PHP.  
+  - Handles conversational flows with users.  
+  - Includes basic chat analysis features for improved responses.
+
 ---
 
 ## 🌱 Currently Learning
