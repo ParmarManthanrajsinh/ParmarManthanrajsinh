@@ -1,7 +1,57 @@
-# 💫 About Me:
+# 👋 Parmar Manthanrajsinh
 
-## - 👋 Hi, I’m @ParmarManthanrajsinh<br>- 👀 I’m interested in ... Game devlopment<br>- 🏫 I’m currently learning ... Unreal Engine<br>- 📫 How to reach me ... DM me on my insta
+🎯 **Game Developer | C++ Programmer**
 
+📫 Email: manthanrajsinhparmar@gmail.com
+---
+
+## 🧭 About Me
+Motivated computer science student specializing in game development. Skilled in advanced C++, Unreal Engine, Godot 4, and raylib. Passionate about creating interactive experiences, with multiple projects ranging from fighting games to database systems.
+
+---
+
+## ⚙️ Skills
+- **Languages:** C++, PHP
+- **Game Development:** Unreal Engine, Godot 4, Raylib
+- **Web Development:** PHP, Bootstrap
+- **Tools:** Git, CMake, VS Code, Visual Studio
+
+---
+
+## 🚀 Projects
+- **[Pookie Fighters](https://github.com/ParmarManthanrajsinh/Godot_4_game_Pookie_Fighters)**  
+  Two-player fighting game built with Godot 4.  
+  - Features custom characters with varied health, speed, and attack stats.  
+  - Published on Itch.io.
+
+- **[Login System](https://github.com/ParmarManthanrajsinh/LoginSystem)**  
+  Web application using PHP and Bootstrap.  
+  - Secure login and registration flow.  
+  - Responsive design with Bootstrap.
+
+- **[Raylib + rlImGui + imgui](https://github.com/ParmarManthanrajsinh/Cpp-GameProject-using-Raylib)**  
+  Integration examples of rlImGui with Raylib.  
+  - Custom GUI overlays in games.  
+  - Includes CMake setup.
+
+- **[Realtime Collaborative Code Editor](https://github.com/ParmarManthanrajsinh/RealtimeCollaborativeCodeEditor)**  
+  PHP-based collaborative code editor project.  
+  - Allows multiple users to edit code in real time.  
+  - Designed for teaching and group coding sessions.
+
+- **[File Explorer in Raylib + ImGui](https://github.com/ParmarManthanrajsinh/File-Explorer-in-Raylib-ImGui)**  
+  Desktop-style file browser UI built with Raylib and rlImGui.  
+  - Demonstrates custom UI design and ImGui integration.  
+  - Supports basic file navigation features
+
+---
+
+## 🌱 Currently Learning
+- Advanced C++
+- Unreal Engine best practices
+- Collaborative code development
+
+---
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manthanrajsinhparmar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthanrajsinh-parmar-1b4637275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Manthan) 
@@ -20,9 +70,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ParmarManthanrajsinh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParmarManthanrajsinh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ParmarManthanrajsinh&icon=0&color=0)](https://visitcount.itsvg.in)
