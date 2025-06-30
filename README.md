@@ -22,7 +22,7 @@ Motivated computer science student specializing in game development. Skilled in 
 - **[Pookie Fighters](https://github.com/ParmarManthanrajsinh/Godot_4_game_Pookie_Fighters)**  
   Two-player fighting game built with Godot 4.  
   - Features custom characters with varied health, speed, and attack stats.  
-  - Published on Itch.io.
+  - Published on [itch.io](https://parmarmanthanrajsinh.itch.io/pookie-fighters).
 
 - **[Login System](https://github.com/ParmarManthanrajsinh/LoginSystem)**  
   Web application using PHP and Bootstrap.  
