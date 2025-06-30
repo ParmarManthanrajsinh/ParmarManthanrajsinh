@@ -41,7 +41,7 @@ Motivated computer science student specializing in game development. Skilled in 
   - Includes CMake setup.
 
 - **[Realtime Collaborative Code Editor](https://github.com/ParmarManthanrajsinh/RealtimeCollaborativeCodeEditor)**  
-  PHP-based collaborative code editor project.  
+  JavaScript-based collaborative code editor project.  
   - Allows multiple users to edit code in real time.  
   - Designed for teaching and group coding sessions.
 
