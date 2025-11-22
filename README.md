@@ -30,11 +30,6 @@ Motivated computer science student specializing in game development. Skilled in 
   - Features custom characters with varied health, speed, and attack stats.  
   - Published on [itch.io](https://parmarmanthanrajsinh.itch.io/pookie-fighters).
 
-- **[Login System](https://github.com/ParmarManthanrajsinh/LoginSystem)**  
-  Web application using PHP and Bootstrap.  
-  - Secure login and registration flow.  
-  - Responsive design with Bootstrap.
-
 - **[Raylib + rlImGui + imgui](https://github.com/ParmarManthanrajsinh/Cpp-GameProject-using-Raylib)**  
   Integration examples of rlImGui with Raylib.  
   - Custom GUI overlays in games.  
