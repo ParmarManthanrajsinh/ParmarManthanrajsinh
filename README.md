@@ -28,7 +28,7 @@ Motivated computer science student specializing in game development. Skilled in 
 - **[RayWaves](https://github.com/ParmarManthanrajsinh/RayWaves-GameEngine)**  
   Game Engine made in cpp on top of raylib  
   - Features hot-reload, export, set scene size, rapid developement in raylib.  
-  - Published on [itch.io](https://parmarmanthanrajsinh.itch.io/pookie-fighters).
+  - Published on [itch.io](https://parmarmanthanrajsinh.itch.io/raywaves).
 
 - **[Pookie Fighters](https://github.com/ParmarManthanrajsinh/Godot_4_game_Pookie_Fighters)**  
   Two-player fighting game built with Godot 4.  
