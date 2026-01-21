@@ -24,39 +24,6 @@ Motivated computer science student specializing in game development. Skilled in 
 
 ---
 
-## 🚀 Projects
-- **[RayWaves](https://github.com/ParmarManthanrajsinh/RayWaves-GameEngine)**  
-  Game Engine made in cpp on top of raylib  
-  - Features hot-reload, export, set scene size, rapid developement in raylib.  
-  - Published on [itch.io](https://parmarmanthanrajsinh.itch.io/raywaves).
-
-- **[Pookie Fighters](https://github.com/ParmarManthanrajsinh/Godot_4_game_Pookie_Fighters)**  
-  Two-player fighting game built with Godot 4.  
-  - Features custom characters with varied health, speed, and attack stats.  
-  - Published on [itch.io](https://parmarmanthanrajsinh.itch.io/pookie-fighters).
-
-- **[Raylib + rlImGui + imgui](https://github.com/ParmarManthanrajsinh/Cpp-GameProject-using-Raylib)**  
-  Integration examples of rlImGui with Raylib.  
-  - Custom GUI overlays in games.  
-  - Includes CMake setup.
-
-- **[Realtime Collaborative Code Editor](https://github.com/ParmarManthanrajsinh/RealtimeCollaborativeCodeEditor)**  
-  JavaScript-based collaborative code editor project.  
-  - Allows multiple users to edit code in real time.  
-  - Designed for teaching and group coding sessions.
-
-- **[File Explorer in Raylib + ImGui](https://github.com/ParmarManthanrajsinh/File-Explorer-in-Raylib-ImGui)**  
-  Desktop-style file browser UI built with Raylib and rlImGui.  
-  - Demonstrates custom UI design and ImGui integration.  
-  - Supports basic file navigation features
-
-- **[AI Bot in PHP](https://github.com/ParmarManthanrajsinh/AI-Bot-in-PHP)**  
-  Chatbot-style AI system built with PHP.  
-  - Handles conversational flows with users.  
-  - Includes basic chat analysis features for improved responses.
-
----
-
 ## 🌱 Currently Learning
 - Advanced C++
 - Unreal Engine best practices
