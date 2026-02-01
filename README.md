@@ -6,7 +6,7 @@
 ---
 
 ## 🧭 About Me
-Motivated computer science student specializing in game development. Skilled in advanced C++, Unreal Engine, Godot 4, and raylib. Passionate about creating interactive experiences, with multiple projects ranging from creating games to database systems.
+Motivated computer science student specializing in game development. Skilled in advanced C++, Unreal Engine, Godot 4, and raylib. Passionate about creating interactive experiences, with multiple projects ranging from creating games to application architecture.
 
 ---
 
